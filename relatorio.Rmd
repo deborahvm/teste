@@ -1,0 +1,4 @@
+```{r}
+data = read.csv("/home/deborah/Desktop/projeto/dados/gapminder_data.csv")
+head(data, n=10)
+```
